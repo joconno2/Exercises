@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BubbleSort/src"/>
+	<classpathentry kind="src" path="Eratosthenes/src"/>
+	<classpathentry kind="src" path="Fizzbuzz/src"/>
+	<classpathentry kind="src" path="StringReverse/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="StringReverse/bin"/>
+</classpath>
